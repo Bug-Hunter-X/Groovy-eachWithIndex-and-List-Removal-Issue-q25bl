@@ -1,0 +1,2 @@
+# Groovy eachWithIndex and List Removal
+This example demonstrates an unexpected behavior when removing elements from a list while iterating using `eachWithIndex` in Groovy.  The standard `eachWithIndex` method does not handle element removal during iteration in a way that would intuitively maintain the index.
